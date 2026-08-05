@@ -5,8 +5,8 @@ Universidad Nacional de la Patagonia San Juan Bosco — Facultad de Ingeniería.
 
 ## Integrantes
 
-- Estudiante A: Thiago Campo
-- Estudiante B: Juan Haro
+- Estudiante A: Thiago Campo Leonardo
+- Estudiante B: Juan Haro Jose
 
 ## Cómo ejecutar
 
